@@ -1,0 +1,11 @@
+com\biblioteca\service\LibroService.class
+com\biblioteca\model\Libro.class
+com\biblioteca\service\BibliotecaService.class
+com\biblioteca\service\impl\LibroServiceImpl.class
+com\biblioteca\controller\BibliotecaController.class
+com\biblioteca\repository\LibroRepository.class
+com\biblioteca\model\Biblioteca.class
+com\biblioteca\repository\BibliotecaRepository.class
+com\biblioteca\controller\LibroController.class
+com\biblioteca\GestionBibliotecasApplication.class
+com\biblioteca\service\impl\BibliotecaServiceImpl.class
